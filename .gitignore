@@ -1,0 +1,6 @@
+dist
+build
+.venv
+pyworker[0-9[0-9]
+*.egg-info
+
